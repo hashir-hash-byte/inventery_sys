@@ -438,18 +438,7 @@ count: 0  →  alertLevel: EMERGENCY
 
 ## 👥 Team
 
-**Yenepoya Pharmacy — MediStock AI Project**
-
-Built to solve real inventory failures in pharmacy operations using IoT, cloud email automation, and a peer-to-peer emergency pharmacy network.
-
----
-
-## 📄 License
-
-This project is built for academic and operational use at Yenepoya Pharmacy.
-
----
-
+BIT HASH TECH
 <div align="center">
 
 **MediStock AI** — *Because an empty shelf should never be a surprise.*
